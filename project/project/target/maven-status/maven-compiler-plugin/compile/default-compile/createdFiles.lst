@@ -1,0 +1,6 @@
+com\jalaacademy\project\Dao\Employeedao.class
+com\jalaacademy\project\ProjectApplication.class
+com\jalaacademy\project\model\Employee.class
+com\jalaacademy\project\controller\Employeecontroller.class
+com\jalaacademy\project\service\EmployeeserviceImpl.class
+com\jalaacademy\project\service\Employeeservice.class
